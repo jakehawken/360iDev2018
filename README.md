@@ -7,6 +7,12 @@ Notes from 360|iDev 2018 Sessions
 
 Schedule: https://360idev.com/schedule/
 
+Slides: https://github.com/phatblat/360iDev-Slides/ (thanks to Ben Chatelain)
+
+Videos: http://360idev.com/session-videos/
+
+Photos: https://photos.app.goo.gl/3pfZQcxKvxNZENKW9
+
 ## Sunday, August 26th (Workshops)
 * [Custom View and Animations Workshop](AnimationWorkshop.md)
 * [Machine Learning on iOS](MachineLearningWorkshop.md)
@@ -24,18 +30,15 @@ Schedule: https://360idev.com/schedule/
 
 ## Tuesday, Aug 28th
 * [Hindsight Can Be 50/50](HindsightCanBe5050.md)
-* Server Side Swift with Vapor
-* Creating a Bluetooth Toolbox
-* Is Native iOS Dev Always Best?
-* You Are Whatever You Tell People You Are
-* When Things Go Wrong
-* Development For All The People
+* [Server Side Swift with Vapor](ServerSideSwift.md)
+* [Firing on all cylinders: A breakdown of Firebase on iOS](FiringOnAllCylinders-ABreakdownOfFirebaseOnIOS.md)
+* [Concurrency From The Ground Up](ConcurrencyFromTheGroundUp.md)
+* [Creating a Bluetooth Toolbox](CreatingABluetoothToolbox.md)
+* [Foresight is 2020](ForesightIs2020.md)
 
 ## Wednesday, Aug 29th
-* State of the Conference
-* The Art of the Font
-* Customizing Your Notifications for iOS 12
-* Making Analytics Interesting
-* And All I Got Was This Lousy Shirt
-* State of Swift Internals
-* Fear and Loathing In the App Store
+* [The Art of the Font](ArtOfTheFont.md)
+* [Customizing Your Notifications for iOS 12](CustomizingYourNotifications.md)
+* [Making Analytics Interesting](MakingAnalyticsInteresting.md)
+* [And All I Got Was This Lousy Shirt](AllIGotWasThisLousyShirt.md)
+* [State of Swift Internals](StateOfSwiftInternals.md)
